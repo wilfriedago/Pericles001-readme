@@ -6,7 +6,7 @@ various challenges also focused on web development. <br>
 - 🌱 *I’m currently learning*: react.js and node.js <br>
 - 👯 I’m looking to collaborate on web development projects <br>
 - 🤔 I’m looking for help with helpful resources you'd know and 
-- share with me. 
+share with me. 
 - 💬 Ask me about how to create responsive websites,
 make react components for any purposes or assist you
 on an application you're working on . <br>
@@ -22,6 +22,3 @@ on an application you're working on . <br>
 
 ## Top languages card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## wakatime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pericles001)](https://github.com/anuraghazra/github-readme-stats)
