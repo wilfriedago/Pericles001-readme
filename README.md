@@ -14,9 +14,6 @@ share with me.
 make react components for any purposes or assist you
 on an application you're working on . <br>
 - 📫 How to reach me: <br>
-[Email](periclesadjovi@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/p%C3%A9ricl%C3%A8s-adjovi-11ab221a7)
-
 
 <p align="left">
  <a href="https://github.com/Pericles001/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
