@@ -1,3 +1,6 @@
+<img src="AvatarMaker.svg"/>
+
+
 ### Hi there 👋 , i'm Pericles Adjovi . I'm a web developer . Welcome to my gh page .<br> 
 
 - 🔭 I’m currently working on open source projects focused 
