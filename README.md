@@ -16,14 +16,16 @@ share with me.
 make react components for any purposes or assist you
 on an application you're working on . <br>
 - 📫 How to reach me: <br>
-
-<p align="left">
+<div>
+ <p align="left">
  <a href="https://github.com/Pericles001/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/p%C3%A9ricl%C3%A8s-adjovi-11ab221a7" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:periclesadjovi@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br/>
+</div>
+
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -41,9 +43,23 @@ on an application you're working on . <br>
 
 </p>
 
-<br>
 
--->
+[linkedin]: https://linkedin.com/in/charalambosioannou
+[mail]: mailto:cioannou1997@gmail.com
+
+
+
+
+
+<br>
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Pericles001&hide=html&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Pericles001&hide=html&theme=tokyonight" />
+</a>
+</div>
 
 ## My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pericles001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
