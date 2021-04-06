@@ -35,8 +35,7 @@ on an application you're working on . <br>
 </p>
 
 <br>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+--![](https://visitor-badge.laobi.icu/badge?page_id=Pericles001.Pericles001)
 -->
 
 ## My stats
