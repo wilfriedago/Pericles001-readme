@@ -56,14 +56,7 @@ on an application you're working on . <br>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Pericles001&hide=html&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Pericles001&hide=html&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Pericles001&layout=compact&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Pericles001&layout=compact&theme=tokyonight" />
 </a>
 </div>
-
-## My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pericles001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top languages card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
