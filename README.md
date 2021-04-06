@@ -44,7 +44,7 @@ on an application you're working on . <br>
 </p>
 
 
-[linkedin]: https://linkedin.com/in/charalambosioannou
+[linkedin]: https://www.linkedin.com/in/p%C3%A9ricl%C3%A8s-adjovi-11ab221a7
 [mail]: mailto:periclesadjovi@gmail.com
 
 
@@ -54,13 +54,6 @@ on an application you're working on . <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pericles001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top languages card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-<br>
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=tokyonight" />
