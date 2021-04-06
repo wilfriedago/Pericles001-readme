@@ -25,3 +25,5 @@ on an application you're working on . <br>
 
 ## Top languages card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Pericles001" frameborder="0"></iframe>
