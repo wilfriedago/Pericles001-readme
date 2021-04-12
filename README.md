@@ -1,4 +1,8 @@
+
+<div align="center">
 <img src="AvatarMaker.svg"/>
+
+</div>
 
 
 ### Hi there 👋 , i'm Pericles Adjovi . I'm a web developer . Welcome to my gh page .<br> 
