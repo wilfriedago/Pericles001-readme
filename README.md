@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 , i'm Pericles Adjovi . I'm a web developer . Welcome to my gh page .<br> 
-![](https://visitor-badge.laobi.icu/badge?page_id=Pericles001.Pericles001) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/Pericles001)
+![](https://visitor-badge.laobi.icu/badge?page_id=Pericles001.Pericles001) [![Github](https://img.shields.io/github/followers/Pericles001?label=Followers&logo=Github)](https://github.com/Pericles001)
 
 
 - 🔭 I’m currently working on open source projects focused 
