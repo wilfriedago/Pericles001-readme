@@ -1,24 +1,22 @@
-
 <div align="center">
 <img src="AvatarMaker.svg"/>
 
 </div>
 
+### Hi there 👋 , i'm Pericles Adjovi . I'm a web developer . Welcome to my gh page .<br>
 
-### Hi there 👋 , i'm Pericles Adjovi . I'm a web developer . Welcome to my gh page .<br> 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Pericles001.Pericles001) [![Github](https://img.shields.io/github/followers/Pericles001?label=Followers&logo=Github)](https://github.com/Pericles001)
 
-
-- 🔭 I’m currently working on open source projects focused 
-on javascript frontend frameworks such as react or making 
-various challenges also focused on web development. <br>
-- 🌱 *I’m currently learning*: react.js and node.js <br>
+- 🔭 I’m currently working on open source projects focused
+  on javascript frontend frameworks such as react or making
+  various challenges also focused on web development. <br>
+- 🌱 _I’m currently learning_: react.js and node.js <br>
 - 👯 I’m looking to collaborate on web development projects <br>
-- 🤔 I’m looking for help with helpful resources you'd know and 
-share with me. 
+- 🤔 I’m looking for help with helpful resources you'd know and
+  share with me.
 - 💬 Ask me about how to create responsive websites,
-make react components for any purposes or assist you
-on an application you're working on . <br>
+  make react components for any purposes or assist you
+  on an application you're working on . <br>
 - 📫 How to reach me: <br>
 <div>
  <p align="left">
@@ -30,9 +28,9 @@ on an application you're working on . <br>
 <br/>
 </div>
 
-
 ## 🧰 Languages and Tools:
-<p align="left">
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -47,20 +45,16 @@ on an application you're working on . <br>
 
 </p>
 
-
 [linkedin]: https://www.linkedin.com/in/p%C3%A9ricl%C3%A8s-adjovi-11ab221a7
 [mail]: mailto:periclesadjovi@gmail.com
 
-
-
-
 ## Stats & Top languages card
+
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=tokyonight" />
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Pericles001&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Pericles001&langs_count=10&layout=compact&theme=radical">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Pericles001&langs_count=10&layout=compact&theme=radical" />
 </a>
 </div>
-
