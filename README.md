@@ -31,12 +31,14 @@
 
 ##  Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ## 🧰 Languages and Tools:
 
-<p align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -49,14 +51,15 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 
-</p>
-
-[linkedin]: https://www.linkedin.com/in/p%C3%A9ricl%C3%A8s-adjovi-11ab221a7
+</div>
+## Social links
+<div align="center">
+  [linkedin]: https://www.linkedin.com/in/p%C3%A9ricl%C3%A8s-adjovi-11ab221a7
 [mail]: mailto:periclesadjovi@gmail.com
 
+</div>
 ## Stats & Top languages card
-
-<div>
+<div align="center">
 
 ![Pericles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pericles001&show_icons=true&theme=radical&layout=compact)
 
@@ -64,6 +67,10 @@
 
 </div>
 
+
 ## Github Streak 
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pericles001&theme=dark)](https://git.io/streak-stats)
+</div>
