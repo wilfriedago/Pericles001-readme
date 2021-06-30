@@ -3,7 +3,7 @@
 
 </div>
 
-### Hi there 👋 , i'm Pericles Adjovi . I'm a web developer . Welcome to my gh page .<br>
+# Hi there 👋 , i'm Pericles Adjovi . I'm a web developer . Welcome to my gh page .<br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Pericles001.Pericles001) [![Github](https://img.shields.io/github/followers/Pericles001?label=Followers&logo=Github)](https://github.com/Pericles001)
 
@@ -27,7 +27,9 @@
 
 <br/>
 </div>
-## Trophies
+
+
+##  Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
