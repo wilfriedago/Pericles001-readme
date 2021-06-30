@@ -53,8 +53,6 @@
 </div>
 
 
-## Social links
-
 [linkedin]: https://www.linkedin.com/in/p%C3%A9ricl%C3%A8s-adjovi-11ab221a7
 [mail]: mailto:periclesadjovi@gmail.com
 
