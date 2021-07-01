@@ -29,4 +29,3 @@ Skills: HTML / CSS / JS / BOOTSTRAP / REACT / PHP / JAVA / PYTHON
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pericles001)  
 
-[]: # "![Profile views](https://gpvc.arturio.dev/Pericles001)"  
