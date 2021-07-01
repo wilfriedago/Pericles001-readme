@@ -25,7 +25,5 @@ Skills: HTML / CSS / JS / BOOTSTRAP / REACT / PHP / JAVA / PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
 
-![GitHub metrics](https://metrics.lecoq.io/Pericles001)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pericles001)  
 
