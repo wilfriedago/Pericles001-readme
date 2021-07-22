@@ -2,7 +2,7 @@
 #### Welcome to my github page 
 ![Welcome to my github page ](https://i.pinimg.com/564x/de/0c/59/de0c594bb83b1c417e590ee77c96af08.jpg)
 
-I am undergraduated computer science student passionate in learning and working with javascript and other web development technologies on open source projects or personal projects in order to grow development skills, although i also have interest in speaking english, make more knowledge in various fields . 
+I am undergraduate computer science student passionate in learning and working with javascript and other web development technologies on open source projects or personal projects in order to grow development skills, although i also have interest in speaking english, make more knowledge in various fields . 
 
 Skills: HTML / CSS / JS / BOOTSTRAP / REACT / PHP / JAVA / PYTHON
 
