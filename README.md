@@ -19,11 +19,13 @@ Skills: HTML / CSS / JS / BOOTSTRAP / REACT / PHP / JAVA / PYTHON
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pericles001)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pericles001&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pericles001)  
+
 
