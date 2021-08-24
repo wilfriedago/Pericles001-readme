@@ -3,6 +3,7 @@
 
 ### Welcome to my github page 
 ![Welcome to my github page ](https://i.pinimg.com/564x/de/0c/59/de0c594bb83b1c417e590ee77c96af08.jpg)
+![image](https://user-images.githubusercontent.com/55035365/130540907-e5d07ecc-68c1-4938-ad19-49d563369855.png)
 
 I am undergraduate computer science student passionate in learning and working on web development projects with languages such as javascript , php and their frameworks. I am generally working on open source projects or personal projects to grow my skills up, though i also have interest in other fields. 
 
