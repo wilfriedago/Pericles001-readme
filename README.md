@@ -29,10 +29,10 @@ No Activity tracked this Week
 
 
 ### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/card/top-langs/?username=Pericles001&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pericles001)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/card/?user=Pericles001)  
 
 ### Github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true)  
