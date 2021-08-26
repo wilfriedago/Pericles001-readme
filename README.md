@@ -49,7 +49,7 @@ I am undergraduate computer science student passionate in learning and working o
 
 ### Tests
 
-![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001&theme=solarized_dark)
-![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001&theme=solarized_dark)
-![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pericles001&theme=solarized_dark)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001)
+![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pericles001)
 
