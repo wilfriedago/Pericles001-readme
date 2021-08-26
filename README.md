@@ -56,7 +56,7 @@ No Activity tracked this Week
 <a href="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
 </a>
 
