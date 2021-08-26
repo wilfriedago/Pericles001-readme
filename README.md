@@ -22,6 +22,13 @@ I am undergraduate computer science student passionate in learning and working o
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pericles001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Pericles001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/périclès-adjovi-11ab221a7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pericles0001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AdjoviPericles)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/periclesadjovi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Pericles001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/périclès-adjovi)  
 
 
+### Github stats
+<a href="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
+</a>
 
 ### Top languages
 
@@ -40,13 +47,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-### Github stats
-<a href="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
-</a>
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&column=7)](https://github.com/ryo-ma/github-profile-trophy)
