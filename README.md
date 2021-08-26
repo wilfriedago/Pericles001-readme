@@ -53,3 +53,10 @@ No Activity tracked this Week
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
