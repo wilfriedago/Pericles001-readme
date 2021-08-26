@@ -46,3 +46,10 @@ I am undergraduate computer science student passionate in learning and working o
 
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
+
+### Tests
+
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001&theme=solarized_dark)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001&theme=solarized_dark)
+![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pericles001&theme=solarized_dark)
+
