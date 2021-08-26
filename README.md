@@ -30,10 +30,10 @@ I am undergraduate computer science student passionate in learning and working o
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=3" />
 </a>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001&layout=compact" />
 </a>
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001&layout=compact" />
 </a>
 
 <!--START_SECTION:waka-->
