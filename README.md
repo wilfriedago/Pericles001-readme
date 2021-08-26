@@ -17,7 +17,9 @@ I am undergraduate computer science student passionate in learning and working o
 
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### Social links
