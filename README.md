@@ -41,7 +41,7 @@ No Activity tracked this Week
 </a>
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Tools & Technologies
