@@ -29,7 +29,7 @@ I am undergraduate computer science student passionate in learning and working o
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pericles001)  
 
 ### Github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pericles001&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api/cards/repos-per-language?username=Pericles001&show_icons=true&count_private=true)  
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001)](https://github.com/ryo-ma/github-profile-trophy)
