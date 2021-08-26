@@ -16,11 +16,6 @@ I am undergraduate computer science student passionate in learning and working o
 - ⚡ Fun fact: *There are only two kinds of programming languages out there. The ones people complain about and the ones no one uses.
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 ### Social links
 
@@ -30,6 +25,13 @@ No Activity tracked this Week
 
 ### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 
 ### Github stats
