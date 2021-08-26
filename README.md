@@ -1,18 +1,18 @@
 ## Hi there 👋, my name is Pericles Adjovi
 
 
-### Welcome to my github page 
+### Welcome to my github page
 ![Welcome to my github page ](https://i.pinimg.com/564x/de/0c/59/de0c594bb83b1c417e590ee77c96af08.jpg)
 
 
-I am undergraduate computer science student passionate in learning and working on web development projects with languages such as javascript , php and their frameworks. I am generally working on open source projects or personal projects to grow my skills up, though i also have interest in other fields. 
+I am undergraduate computer science student passionate in learning and working on web development projects with languages such as javascript , php and their frameworks. I am generally working on open source projects or personal projects to grow my skills up, though i also have interest in other fields.
 
 - 🔭 I’m currently working on alx-holberton projects, and personal projects involving my skills in bash shell, C language, UI creation,PHP and laravel  
 - 🌱 I’m currently reviewing my knowledges in software development process and linux command lines
 - 👯 I’m looking to collaborate on open source projects which are relative to UI, javascript.  
-- 🤔 I’m looking for help with any of my public repositories. If you have improvements to do, don't hesitate 
+- 🤔 I’m looking for help with any of my public repositories. If you have improvements to do, don't hesitate
 - 💬 Ask me about frontend development stuffs  
-- 😄 Pronouns: ... 
+- 😄 Pronouns: ...
 - ⚡ Fun fact: *There are only two kinds of programming languages out there. The ones people complain about and the ones no one uses.
 
 
@@ -24,9 +24,17 @@ I am undergraduate computer science student passionate in learning and working o
 
 
 ### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=3">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&langs_count=3" />
+</a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001" />
+</a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001" />
+</a>
 
 <!--START_SECTION:waka-->
 ```text
@@ -54,9 +62,7 @@ No Activity tracked this Week
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
-
-
