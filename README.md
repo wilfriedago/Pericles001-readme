@@ -5,4 +5,10 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Pericles001 alt=Pericles001 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Pericles001&show_icons=true&include_all_commits=true)](https://github.com/Pericles001/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pericles001&layout=compact)](https://github.com/Pericles001/github-readme-stats)
+
+### Tests
+
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001)
+![Kakise Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pericles001)
+![Kakise Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pericles001)
+
