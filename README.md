@@ -42,6 +42,8 @@ I am undergraduate computer science student passionate in learning and working o
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001&layout=compact" />
 </a>
 
+
+### My recent works
 <!--START_SECTION:waka-->
 ```text
 Markdown     34 mins         ███████████████████████░░   92.56 % 
