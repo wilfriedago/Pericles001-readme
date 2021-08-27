@@ -35,11 +35,6 @@ I am undergraduate computer science student passionate in learning and working o
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pericles001&layout=compact" />
 </a>
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 
 ### Github stats
