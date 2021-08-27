@@ -44,14 +44,9 @@ I am undergraduate computer science student passionate in learning and working o
 
 
 ### My recent works
-<!--START_SECTION:waka-->
-```text
-Markdown     34 mins         ███████████████████████░░   92.56 % 
-CSS          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-```
-<!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### Trophies
