@@ -25,10 +25,10 @@ I am undergraduate computer science student passionate in learning and working o
 ### Github stats
 
 <a href="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
 </a>
 
 
