@@ -43,12 +43,6 @@ I am undergraduate computer science student passionate in learning and working o
 </a>
 
 
-### My recent works
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&column=7)](https://github.com/ryo-ma/github-profile-trophy)
