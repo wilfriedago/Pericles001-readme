@@ -11,7 +11,7 @@ I am undergraduate computer science student passionate in learning and working o
 - 🌱 I’m currently reviewing my knowledges in software development process and linux command lines
 - 👯 I’m looking to collaborate on open source projects which are relative to UI, javascript.  
 - 🤔 I’m looking for help with any of my public repositories. If you have improvements to do, don't hesitate
-- 💬 Ask me about frontend development stuffs  
+- 💬 Ask me questions about CS fundamentals, OS theories, web development and system administration   
 - 😄 Pronouns: ...
 - ⚡ Fun fact: *There are only two kinds of programming languages out there. The ones people complain about and the ones no one uses.
 
