@@ -43,7 +43,6 @@ I am undergraduate computer science student passionate in learning and working o
 </a>
 
 <!--START_SECTION:waka-->
-### Weekly stats
 <!--END_SECTION:waka-->
 
 
