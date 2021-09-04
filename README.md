@@ -64,7 +64,6 @@ I am undergraduate computer science student passionate in learning and working o
 
 
 <!--STARTS_HERE_QUOTE_README-->
-### Daily Fact/Quote
-<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
+<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
