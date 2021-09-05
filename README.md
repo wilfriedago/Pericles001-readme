@@ -13,7 +13,11 @@ I am undergraduate computer science student passionate in learning and working o
 - 🤔 I’m looking for help with any of my public repositories. If you have improvements to do, don't hesitate
 - 💬 Ask me questions about CS fundamentals, OS theories, web development and system administration   
 - 😄 Pronouns: ...
-- ⚡ Fun fact: *There are only two kinds of programming languages out there. The ones people complain about and the ones no one uses.
+
+- ⚡ Daily fact: 
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
 
 
@@ -63,7 +67,4 @@ I am undergraduate computer science student passionate in learning and working o
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
 
 
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
-<!--ENDS_HERE_QUOTE_README-->
 
