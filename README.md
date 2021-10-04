@@ -16,7 +16,7 @@ I am undergraduate computer science student passionate in learning and working o
 
 - ⚡ Daily fact: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
