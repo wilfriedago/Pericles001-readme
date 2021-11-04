@@ -28,19 +28,15 @@ I am undergraduate computer science student passionate in learning and working o
 
 ### Github stats
 
-<a href="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Pericles001&show_icons=true&count_private=true" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
-</a>
-
-
-### Top languages
-
 [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### Streak
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
+</a>
 
 
 ### Trophies
