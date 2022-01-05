@@ -5,7 +5,7 @@
 ![Welcome to my github page ](https://i.pinimg.com/564x/de/0c/59/de0c594bb83b1c417e590ee77c96af08.jpg)
 
 
-I am undergraduate computer science student passionate in learning and working on web development projects with languages such as javascript , php and their frameworks. I am generally working on open source projects or personal projects to grow my skills up, though i also have interest in other fields.
+I am undergraduate computer science student passionate in learning and working on web development projects with languages such as javascript , php and their frameworks. I am generally working on personal projects to grow my skills up, though i also have interest in other fields.
 
 - 🔭 I’m currently working on alx-holberton projects, and personal projects involving my skills in bash shell, C language, UI creation,PHP and laravel  
 - 🌱 I’m currently reviewing my knowledges in software development process and linux command lines
