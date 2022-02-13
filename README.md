@@ -20,6 +20,13 @@ I am undergraduate computer science student passionate in learning and working o
 <!--ENDS_HERE_QUOTE_README-->
 
 
+### Streak
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
+</a>
+
+
 
 ### Social links
 
@@ -45,12 +52,6 @@ I am undergraduate computer science student passionate in learning and working o
 
 
 
-
-### Streak
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001" />
-</a>
 
 
 
