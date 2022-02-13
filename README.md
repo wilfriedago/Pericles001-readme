@@ -88,3 +88,6 @@ Other            1 hr 8 mins     █▒░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+### Musical vibes
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Pericles&width=1000)
