@@ -54,17 +54,7 @@ I am undergraduate computer science student passionate in learning and working o
 [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!--START_SECTION:waka-->
-```text
-Week: 05 February, 2022 - 12 February, 2022
 
-PHP              7 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   35.13 % 
-Blade Template   6 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 % 
-CSS              3 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-HTML             1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Other            1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-```
-<!--END_SECTION:waka-->
 
 ### Streak
 
@@ -83,5 +73,17 @@ Other            1 hr 8 mins     █▒░░░░░░░░░░░░░�
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
 
+### Weekly focus
 
+<!--START_SECTION:waka-->
+```text
+Week: 05 February, 2022 - 12 February, 2022
+
+PHP              7 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   35.13 % 
+Blade Template   6 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 % 
+CSS              3 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+HTML             1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Other            1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+```
+<!--END_SECTION:waka-->
 
