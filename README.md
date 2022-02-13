@@ -20,11 +20,14 @@ I am undergraduate computer science student passionate in learning and working o
 <!--ENDS_HERE_QUOTE_README-->
 
 
+
 ### Github stats
 
 [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 ### Streak
 
@@ -33,8 +36,10 @@ I am undergraduate computer science student passionate in learning and working o
 </a>
 
 
+
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### Tools & Technologies
@@ -47,6 +52,7 @@ I am undergraduate computer science student passionate in learning and working o
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+
 ### All new social links
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pericles001)
@@ -57,6 +63,7 @@ I am undergraduate computer science student passionate in learning and working o
 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/Pericles001/) 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/periclesadjovi)
+
 
 
 ### Contribution graph
