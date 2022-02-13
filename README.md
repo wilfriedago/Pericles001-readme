@@ -20,6 +20,13 @@ I am undergraduate computer science student passionate in learning and working o
 <!--ENDS_HERE_QUOTE_README-->
 
 
+
+
+### Musical vibes
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jnmtkgm9g3byjiiftxmv9hfe6&unique={true|1|on|yes})
+
+
 ### Streak
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Pericles001">
@@ -88,6 +95,3 @@ Other            1 hr 8 mins     █▒░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### Musical vibes
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jnmtkgm9g3byjiiftxmv9hfe6&unique={true|1|on|yes})
