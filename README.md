@@ -87,11 +87,11 @@ I am undergraduate computer science student passionate in learning and working o
 ```text
 Week: 10 February, 2022 - 17 February, 2022
 
-Blade Template   6 hrs 46 mins   █████████▓░░░░░░░░░░░░░░░   38.87 % 
-PHP              5 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.70 % 
-Markdown         2 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Other            1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Python           27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Blade Template   6 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.71 % 
+PHP              2 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Markdown         2 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+C                1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Other            1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 <!--END_SECTION:waka-->
 
