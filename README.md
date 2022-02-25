@@ -85,7 +85,7 @@ I am undergraduate computer science student passionate in learning and working o
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 February, 2022 - 23 February, 2022
+Week: 17 February, 2022 - 24 February, 2022
 
 C          4 hrs 25 mins   ██████████████░░░░░░░░░░░   55.60 % 
 Markdown   3 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   38.98 % 
