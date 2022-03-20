@@ -85,7 +85,7 @@ I am undergraduate computer science student passionate in learning and working o
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2022 - 18 March, 2022
+Week: 12 March, 2022 - 19 March, 2022
 
 JavaScript   15 hrs 45 mins  ████████████▓░░░░░░░░░░░░   51.17 % 
 Other        11 hrs 45 mins  █████████▓░░░░░░░░░░░░░░░   38.19 % 
