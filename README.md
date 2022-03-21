@@ -16,7 +16,7 @@ I am undergraduate computer science student passionate in learning and working o
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.❞</i>
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
