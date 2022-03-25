@@ -85,13 +85,13 @@ I am undergraduate computer science student passionate in learning and working o
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2022 - 23 March, 2022
+Week: 17 March, 2022 - 24 March, 2022
 
-JavaScript       16 hrs 52 mins  ████████████▓░░░░░░░░░░░░   51.28 % 
-Other            9 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-CSS              1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Blade Template   1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Python           1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Other            10 hrs 43 mins  █████████▓░░░░░░░░░░░░░░░   38.41 % 
+JavaScript       6 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 % 
+Python           2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+CSS              2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Blade Template   2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 <!--END_SECTION:waka-->
 
