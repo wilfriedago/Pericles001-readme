@@ -85,7 +85,7 @@ I am undergraduate computer science student passionate in learning and working o
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 March, 2022 - 01 April, 2022
+Week: 26 March, 2022 - 02 April, 2022
 
 Blade Template   18 hrs 5 mins   ████████████▒░░░░░░░░░░░░   49.56 % 
 Other            7 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 % 
