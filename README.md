@@ -85,7 +85,7 @@ I am a computer scientist passionate in learning and working on web development 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2022 - 14 April, 2022
+Week: 08 April, 2022 - 15 April, 2022
 
 Other            7 hrs 27 mins   █████████████░░░░░░░░░░░░   52.18 % 
 JavaScript       1 hr 55 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
