@@ -87,11 +87,11 @@ I am a computer scientist passionate in learning and working on web development 
 ```text
 Week: 11 April, 2022 - 18 April, 2022
 
-Other        6 hrs 35 mins   ███████████████░░░░░░░░░░   60.29 % 
-JavaScript   3 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.58 % 
-Python       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other        6 hrs 23 mins   ██████████████▒░░░░░░░░░░   56.73 % 
+JavaScript   3 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Python       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 <!--END_SECTION:waka-->
 
