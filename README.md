@@ -87,11 +87,11 @@ I am a software engineer passionate in learning and working on web development p
 ```text
 Week: 24 April, 2022 - 01 May, 2022
 
-Other        8 hrs 25 mins   █████████████▒░░░░░░░░░░░   53.09 % 
-Python       2 hrs 58 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
-JavaScript   2 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-C            1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Other        7 hrs 25 mins   █████████████▓░░░░░░░░░░░   55.14 % 
+Python       2 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 % 
+JavaScript   2 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+C            25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 <!--END_SECTION:waka-->
 
