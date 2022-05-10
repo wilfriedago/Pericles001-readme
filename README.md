@@ -85,7 +85,7 @@ I am a software engineer passionate in learning and working on web development p
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 May, 2022 - 08 May, 2022
+Week: 02 May, 2022 - 09 May, 2022
 
 Other        6 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   42.09 % 
 Python       4 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.65 % 
