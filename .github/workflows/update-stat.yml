@@ -19,6 +19,6 @@ jobs:
           SHOW_TITLE: true
           SHOW_OS: true
           SHOW_LANGUAGE_PER_REPO: true
-          COMMIT_BY_ME: true
+   #     COMMIT_BY_ME: true
           COMMIT_MESSAGE: Update readme with new metrics
           
