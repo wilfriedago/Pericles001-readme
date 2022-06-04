@@ -21,11 +21,11 @@ I am a software engineer passionate in learning and working on web development p
 
 
 
-
+<!--
 ### Musical vibes
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jnmtkgm9g3byjiiftxmv9hfe6&unique={true|1|on|yes})
-
+-->
 
 ### Streak
 
