@@ -79,9 +79,10 @@ I am a software engineer passionate in learning and working on web development p
 
 
 
-
+<!--
 ### Contribution graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pericles001)  
+-->
 
 ### Weekly focus
 
