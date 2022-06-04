@@ -46,8 +46,9 @@ I am a software engineer passionate in learning and working on web development p
 
 
 
-### Trophies
+
 <!--
+### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
