@@ -17,8 +17,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
-          SHOW_TITLE: true
-          SHOW_OS: true
-          SHOW_LANGUAGE_PER_REPO: true
-          COMMIT_MESSAGE: Update readme with new metrics
-          
+          SHOW_TITLE: true         
