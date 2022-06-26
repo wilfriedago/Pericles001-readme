@@ -16,7 +16,7 @@ I am a software engineer focused on web development projects with javascript and
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The most likely way for the world to be destroyed, most experts agree, is by accident.  That’s where we come in; we’re computer professionals.  We cause accidents.”— Nathaniel Borenstein   ❞</i>
+<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
