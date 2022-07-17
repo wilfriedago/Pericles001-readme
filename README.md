@@ -7,10 +7,10 @@
 
 I am a software engineer focused on web development projects with javascript and python. I am generally working on personal projects to grow my skills up, though i also have interest in other fields.
 
-- 🔭 I’m currently working on alx-holberton projects, and personal projects involving my skills in javascript, Python and flask  
+- 🔭 I’m currently working on alx-holberton backend track projects, and personal projects involving my skills in javascript, Python and fastAPI
 - 🌱 I’m currently reviewing my knowledges in algorithms and abstract data structures
 - 👯 I’m looking to collaborate on open source projects which are relative to python or javascript  
-- 🤔 I’m looking for help with any of my public repositories. If you have improvements to submit, make a fork
+- 🤔 I’m looking for help with any of my public repositories. If you have improvements to submit, make a fork or create issues
 - 💬 Ask me questions about software architecture, design patterns, and best practices   
 - 😄 Pronouns: ...
 
