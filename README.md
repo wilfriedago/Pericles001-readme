@@ -90,7 +90,7 @@ I am a software engineer focused on web development projects with javascript and
 ```text
 Week: 15 July, 2022 - 22 July, 2022
 
-
+Python   5 mins          ██████████████████████▒░░   89.18 % 
 ```
 <!--END_SECTION:waka-->
 
