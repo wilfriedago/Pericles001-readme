@@ -21,11 +21,11 @@ I am a software engineer focused on web development projects with javascript and
 
 
 
-<!--
+
 ### Musical vibes
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jnmtkgm9g3byjiiftxmv9hfe6&unique={true|1|on|yes})
--->
+
 
 ### Streak
 
