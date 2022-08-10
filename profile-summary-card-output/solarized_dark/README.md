@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Pericles001/Pericles001/version-2/profile-summary-card-output/solarized_dark/4-productive-time.svg)
+```
+
+    
