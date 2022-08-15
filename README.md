@@ -88,7 +88,7 @@ I am a software engineer focused on web development projects with javascript and
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2022 - 13 August, 2022
+Week: 07 August, 2022 - 14 August, 2022
 
 JavaScript   4 hrs 37 mins   ████████████████████████▒   97.17 % 
 CSV          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
