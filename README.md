@@ -16,7 +16,7 @@ I am a software engineer focused on web development projects with javascript and
 
 ### ⚡ Daily quote: 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
+<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
