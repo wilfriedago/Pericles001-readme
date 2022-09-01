@@ -50,12 +50,12 @@ I am a software engineer focused on web development projects with javascript and
 <!--
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pericles001&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdjoviPericles)
 -->
 
 ### Social links
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pericles001)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdjoviPericles)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/périclès-adjovi-11ab221a7/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](periclesadjovi@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/périclès-adjovi)
