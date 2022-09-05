@@ -88,13 +88,13 @@ I am a software engineer focused on web development projects with javascript and
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2022 - 03 September, 2022
+Week: 28 August, 2022 - 04 September, 2022
 
-JavaScript   14 hrs 3 mins   ████████████████▒░░░░░░░░   65.85 % 
-Python       4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Markdown     1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+JavaScript   16 hrs 18 mins  █████████████████▓░░░░░░░   70.85 % 
+Python       3 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Markdown     1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 <!--END_SECTION:waka-->
 
