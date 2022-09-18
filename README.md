@@ -79,7 +79,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 September, 2022 - 16 September, 2022
+Week: 10 September, 2022 - 17 September, 2022
 
 Python       17 hrs 11 mins  ██████████████░░░░░░░░░░░   56.34 % 
 JavaScript   10 hrs 13 mins  ████████▒░░░░░░░░░░░░░░░░   33.52 % 
