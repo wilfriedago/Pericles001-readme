@@ -81,11 +81,11 @@
 ```text
 Week: 11 September, 2022 - 18 September, 2022
 
-Python         14 hrs 33 mins  █████████████░░░░░░░░░░░░   51.88 % 
-JavaScript     10 hrs 13 mins  █████████░░░░░░░░░░░░░░░░   36.45 % 
-Markdown       1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-HTTP Request   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-SQL            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+JavaScript     10 hrs 13 mins  ████████████▓░░░░░░░░░░░░   51.19 % 
+Python         6 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   32.67 % 
+Markdown       1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+HTTP Request   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Text           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
 
